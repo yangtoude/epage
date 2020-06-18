@@ -1,3 +1,6 @@
+// epage核心主界面 左侧组件选择区+中间工作区+右侧配置区
+// 被Design调用
+
 <template lang="pug">
 .ep-editor
   .ep-tool
